@@ -1,0 +1,49 @@
+<table style="border: 0px; font-family: 'Arial';">
+    <tbody>
+        <tr>
+            <td style="width: 200px; border: solid red 0px; text-align:center;">
+                <a href="http://www.ecre.org/">
+                    <img src="https://raw.githubusercontent.com/theecre/MS365-signatures/refs/heads/main/ecre_logo_mediumres.png?token=GHSAT0AAAAAADCTAZCLU63FKZ4HCKSVHIIS2BE5JIA" alt="European Council on Refugees and Exiles" width="180" height="69">
+                </a>
+
+                <p style="font-size: 0px;">
+                    <a href="https://bsky.app/profile/theecre.bsky.social" style="display: inline;">
+                        <img src="https://raw.githubusercontent.com/theecre/MS365-signatures/refs/heads/main/bluesky.png?token=GHSAT0AAAAAADCTAZCLD6ORYA22JE776SQC2BE4RHQ" alt="Bluesky Social" width="16" height="16"> </a>
+                    <a href="https://www.linkedin.com/company/european-council-on-refugees-and-exiles/" style="display: inline;">
+                        <img src="https://raw.githubusercontent.com/theecre/MS365-signatures/refs/heads/main/linkedin.png?token=GHSAT0AAAAAADCTAZCL4WETZ7CKW6UWWLYS2BE4SGQ" alt="LinkedIn" width="16" height="16"> </a>
+                    <a href="https://instagram.com/theecre/" style="display: inline;">
+                        <img src="https://raw.githubusercontent.com/theecre/MS365-signatures/refs/heads/main/instagram.png?token=GHSAT0AAAAAADCTAZCKV5SZH3VZF24R7U7Q2BE4SNQ" alt="Instagram" width="16" height="16"> </a>
+					<a href="https://www.facebook.com/TheECRE/" style="display: inline;">
+                        <img src="https://raw.githubusercontent.com/theecre/MS365-signatures/refs/heads/main/fb.png?token=GHSAT0AAAAAADCTAZCLN6GYGAVVECH7BU2W2BE4SPQ" alt="Facebook" width="16" height="16"> </a>
+                </p>
+                
+            </td>
+            <td style="width: 10px; height: 110px; border-left: 5px solid rgb(64, 173, 167); vertical-align: top;"></td>
+            <td style="width: 350px; border: solid red 0px;">
+                <div>
+                    <span style="font-size: 19px; color: rgb(0, 0, 0)">%%DisplayName%%</span>
+                    <br>
+                    <span style="font-size: 14px; color: rgb(120, 120, 120)"><strong>%%Title%%</strong></span>
+                </div>
+                <div>
+                    <div>
+                        <span style="font-size: 11px; color: rgb(0, 168, 157);">p: </span>
+                        <span style="font-size: 11px; color: rgb(0, 0, 0)">%%BusinessPhone%%</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 11px; color: rgb(0, 168, 157);">a: </span>
+                        <span style="font-size: 11px; color: rgb(0, 0, 0)">%%StreetAddress%%, %%PostalCode%% %%City%%, %%Country%%</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 11px; color: rgb(0, 168, 157);">e: </span>
+                        <span style="font-size: 11px; color: rgb(0, 0, 0);"><a href="mailto:%%UserPrincipalName%%">%%UserPrincipalName%%</a></span>
+                    </div>
+                    <div>
+                        <span style="font-size: 11px; color: rgb(0, 168, 157);">w: </span>
+                        <span style="font-size: 11px; color: rgb(0, 0, 0)"><a href="https://www.ecre.org/">www.ecre.org</a></span>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
